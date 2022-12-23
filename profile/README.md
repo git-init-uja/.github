@@ -1,4 +1,4 @@
-# git-init-UJA: ¿qué es? <!--img src="./assets/img/git-init-uja-logo-transp.png" width="10%"-->
+# git-init-UJA: ¿qué es? <img src="https://github.com/git-init-uja/.github/blob/5559f3b07985f496b33256269d355a898fd7fe42/assets/img/git-init-uja-1280x640-transp.png" width="10%">
 * Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
 * Solicitado en diciembre de 2022 par ser ejecutado durante los años 2023 y 2024.
 
