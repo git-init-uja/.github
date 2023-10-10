@@ -1,5 +1,6 @@
 # git-init-UJA: ¿qué es? <img src="https://github.com/git-init-uja/.github/blob/5559f3b07985f496b33256269d355a898fd7fe42/assets/img/git-init-uja-1280x640-transp.png" width="10%">
 * Proyecto de Innovación y Mejora Docente de la Universidad de Jaén.
+  * __“git-init-UJA: desarrollo de itinerarios formativos sobre herramientas para control de versiones en titulaciones con competencias en programación de ordenadores. (PIMED22_202224)”__
 * Solicitado en diciembre de 2022 para ser ejecutado durante los años 2023 y 2024.
   * [Aceptado el *24-abr-2023*](https://github.com/git-init-uja/.github/blob/5559f3b07985f496b33256269d355a898fd7fe42/assets/files/ACEPTACION-GIT-INIT-UJA-REGAGE23e00025972794.pdf")
 * Estamos en Twitter: [#gitinituja]
