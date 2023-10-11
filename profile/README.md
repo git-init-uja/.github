@@ -6,10 +6,9 @@
 * Estamos en Twitter: [#gitinituja]
 
 ## Índice
-- [git-init-UJA: ¿qué es? ](#git-init-uja-qué-es-)
-  - [Índice](#índice)
-  - [Participantes (por orden alfabético)](#participantes-por-orden-alfabético)
-  - [Enlace a la documentación privada](#enlace-a-la-documentación-privada)
+- [Participantes (por orden alfabético)](#participantes-por-orden-alfabético)
+- [Documentos de difusión pública](#documentos-de-difusi%C3%B3n-p%C3%BAblica)
+- [Enlace a la documentación privada](#enlace-a-la-documentación-privada)
 
 ## Participantes (por orden alfabético)
 
@@ -33,12 +32,17 @@
   * ` [SSPJ] `     **SÁNCHEZ SÁNCHEZ, PEDRO JOSÉ** / Profesor en la asignatura Sistemas Multiagentes
   * ` [ULLA / E] `   **UREÑA LÓPEZ, LUIS ALFONSO** / Profesor en la asignatura Procesamiento del Lenguaje Natural / _Colaborador externo_
 
+## Documentos de difusión pública
+* [Resultados encuesta 1 profesorado]
+
+
 ## Enlace a la documentación privada
 [Directorio Drive]
 
 
 <!-- Enlaces -->
 [Directorio Drive]:https://drive.google.com/drive/folders/1BcbGfEnmX1BDdKohOmnzqn8ZdouvypE5?usp=share_link
+[Resultados encuesta 1 profesorado]:https://docs.google.com/document/d/1JYhXaQtF1SjRysHychcGyhxyfdie3gtpNta7vQbPPI4/edit?usp=drive_link
 [@jrbalsas]:https://github.com/jrbalsas
 [@algarcia-ujaen]:https://github.com/algarcia-ujaen
 [@Griger]:https://github.com/Griger
