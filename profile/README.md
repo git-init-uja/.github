@@ -4,7 +4,7 @@
 * Solicitado en diciembre de 2022 para ser ejecutado durante los años 2023 y 2024.
   * [Aceptado el *24-abr-2023*](https://github.com/git-init-uja/.github/blob/5559f3b07985f496b33256269d355a898fd7fe42/assets/files/ACEPTACION-GIT-INIT-UJA-REGAGE23e00025972794.pdf")
 * Estamos en Twitter: [#gitinituja]
-* [Enlace al repositorio de recursos on-line](materials)
+* Enlace al repositorio de recursos on-line: [https://vrivas.github.io/git-init-uja-resrepo/](git-init-uja-resrepo)
 
 ## Índice
 - [Participantes (por orden alfabético)](#participantes-por-orden-alfabético)
@@ -53,5 +53,5 @@
 [@manuelgarciavega]:https://github.com/manuelgarciavega
 
 [#gitinituja]: https://twitter.com/hashtag/gitinituja?src=hashtag_click
-[materials]: https://vrivas.github.io/git-init-uja-materials/
+[git-init-uja-resrepo]: https://vrivas.github.io/git-init-uja-resrepo/
 
