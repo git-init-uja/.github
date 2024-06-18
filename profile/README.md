@@ -24,7 +24,7 @@
   * ` [MLL] `     **MARTÍNEZ LÓPEZ, LUIS** / Profesor en las asignaturas Gestión de proyectos y desarrollo de aplicaciones software y Gestión y Control de Proyectos Informáticos
   * ` [MMF] `   **MATA MATA, FRANCISCO** / Profesor en la asignatura Programación Orientada a Objetos
   * ` [OAL] `     **ORTEGA ALVARADO, LIDIA** / Profesora en la asignatura Estructuras de Datos
-  * ` [PGMD] ` **PÉREZ GODOY, MARÍA DOLORES** / Profesora en la asignatura Fundamentos de la Programación
+  * ` [PGMD] ` **PÉREZ GODOY, MARÍA DOLORES** - [@lperezgodoy]  / Profesora en la asignatura Fundamentos de la Programación
   * ` [RGG] `    **RIVAS GERVILLA, GUSTAVO** - [@Griger] / Profesor en la asignatura Fundamentos de la Programación.
   * ` [RSVM / C] `  **RIVAS SANTOS, VÍCTOR MANUEL** - [@vrivas] / Profesor en las asignaturas Fundamentos de la Programación y Desarrollo Ágil. / _Coordinador_
   * ` [RRAJ] `   **RIVERA RIVAS, ANTONIO JESÚS** - [@ajriverar] / Profesor en la asignaturas Estructuras de datos y Desarrollo de Aplicaciones Empresariales
@@ -51,6 +51,8 @@
 [@ajriverar]:https://github.com/ajriverar
 [@Linauja]:https://github.com/Linauja
 [@manuelgarciavega]:https://github.com/manuelgarciavega
+[@lperezgodoy]:https://github.com/lperezgodoy
+
 
 [#gitinituja]:https://twitter.com/hashtag/gitinituja?src=hashtag_click
 
