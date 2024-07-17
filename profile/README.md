@@ -27,9 +27,9 @@
   * ` [PGMD] ` **PÉREZ GODOY, MARÍA DOLORES** - [@lperezgodoy]  / Profesora en la asignatura Fundamentos de la Programación
   * ` [RGG] `    **RIVAS GERVILLA, GUSTAVO** - [@Griger] / Profesor en la asignatura Fundamentos de la Programación.
   * ` [RSVM / C] `  **RIVAS SANTOS, VÍCTOR MANUEL** - [@vrivas] / Profesor en las asignaturas Fundamentos de la Programación y Desarrollo Ágil. / _Coordinador_
-  * ` [RRAJ] `   **RIVERA RIVAS, ANTONIO JESÚS** - [@ajriverar] / Profesor en la asignatura Diseño e Implantación de Servidores
+  * ` [RiRAJ] `   **RIVERA RIVAS, ANTONIO JESÚS** - [@ajriverar] / Profesor en la asignatura Diseño e Implantación de Servidores
   * ` [RRI] `      **RUANO RUANO, ILDEFONSO** / Profesor en la asignatura Tecnologías Emergentes de Redes de Telecomunicación
-  * ` [RRAJ] `    **RUEDA RUIZ, ANTONIO JESÚS** / Profesor en la asignaturas Estructuras de datos y Desarrollo de Aplicaciones Empresariales
+  * ` [RuRAJ] `    **RUEDA RUIZ, ANTONIO JESÚS** / Profesor en la asignaturas Estructuras de datos y Desarrollo de Aplicaciones Empresariales
   * ` [SSPJ] `     **SÁNCHEZ SÁNCHEZ, PEDRO JOSÉ** / Profesor en la asignatura Sistemas Multiagentes
   * ` [ULLA / E] `   **UREÑA LÓPEZ, LUIS ALFONSO** / Profesor en la asignatura Procesamiento del Lenguaje Natural / _Colaborador externo_
 
